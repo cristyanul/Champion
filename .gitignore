@@ -97,3 +97,4 @@ CFG/legit mm.json
 CFG/others/skins.json
 dll/champion.dll
 dll/champion.iobj
+*.opendb
